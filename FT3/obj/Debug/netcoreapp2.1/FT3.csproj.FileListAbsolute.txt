@@ -1,0 +1,14 @@
+C:\Users\Rich\Source\Repos\FT3\FT3\bin\Debug\netcoreapp2.1\FT3.deps.json
+C:\Users\Rich\Source\Repos\FT3\FT3\bin\Debug\netcoreapp2.1\FT3.runtimeconfig.json
+C:\Users\Rich\Source\Repos\FT3\FT3\bin\Debug\netcoreapp2.1\FT3.runtimeconfig.dev.json
+C:\Users\Rich\Source\Repos\FT3\FT3\bin\Debug\netcoreapp2.1\FT3.dll
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.csprojAssemblyReference.cache
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.csproj.CoreCompileInputs.cache
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.RazorAssemblyInfo.cache
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.RazorAssemblyInfo.cs
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.AssemblyInfoInputs.cache
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.AssemblyInfo.cs
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.RazorTargetAssemblyInfo.cache
+C:\Users\Rich\Source\Repos\FT3\FT3\bin\Debug\netcoreapp2.1\FT3.pdb
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.dll
+C:\Users\Rich\Source\Repos\FT3\FT3\obj\Debug\netcoreapp2.1\FT3.pdb
